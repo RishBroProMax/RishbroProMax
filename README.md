@@ -95,7 +95,11 @@ Here are some ideas to get you started:
 </p>
 </details>
 <br>
+ <img src="https://telegra.ph/file/34d6a789a0025673722e3.jpg" width="500px" style="max-width:100%;"></a><br>𝔥𝔢𝔩𝔩𝔬!<a target="_blank"> 
 
-
+<p>
+  <h2 align="Rightr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Yo+Yo+See+You+byr;&font=Fira%20Code&center=true&size=75&width=1000&height=150"><br>
+  
+  
 
 </details>
