@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/Captainamarica/Captainamarica/blob/a8bc06c5130bd49cf6a679c758b1b526703e69af/GIFS/74bc5c25eb8a960229f43545854aabdd.gif" width="50px" style="max-width:100%;"></a>𝔥𝔢𝔩𝔩𝔬!<a target="_blank"><img src="https://github.com/DARKEMPIRESL/DARKEMPIRESL/blob/a8bc06c5130bd49cf6a679c758b1b526703e69af/GIFS/Hi.gif" width="40px" /></a></h1>
+    <img src="https://telegra.ph/file/8accb732e387fcba4d9ee.jpg" width="700px" style="max-width:100%;"></a><br>𝔥𝔢𝔩𝔩𝔬!<a target="_blank">
 
 <p>
   <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝔥𝔢𝔩𝔩𝔬+I'm+Rishmika🇱🇰!;This+is+My+profile!;&font=Fira%20Code&center=true&size=75&width=1000&height=150"><br>
@@ -51,13 +51,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...𝕿𝖍𝖊 𝖒𝖔𝖘𝖙 𝖋𝖚𝖓𝖓𝖞 𝖙𝖍𝖎𝖓𝖌 𝖎𝖘 𝖘𝖙𝖚𝖉𝖞𝖎𝖓𝖌 𝖕𝖍𝖞𝖘𝖎𝖈𝖘
 
 
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
 
 
 #
@@ -84,6 +77,17 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+  
+  
+   <p align="center"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+
+
+  
 
     
     
