@@ -66,14 +66,9 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/ImRishmika/count.svg" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/Rishbropromax/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rishmika Sandanu Streak Starts" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
       
-      
-#
+ #
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -82,9 +77,15 @@ Here are some ideas to get you started:
 <br>
   <p align="center">
   <a href="https://github.com/RishbroProMax">
+     </a>
+ <p align="center">
+    <a href="https://github.com/Rishbropromax/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rishmika Sandanu Streak Starts" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
     
-  </a>
-  <a href="https://github.com/RishbroProMax">
     
   </a>
 </p>
