@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a target="_blank">
-    <img src="https://telegra.ph/file/8accb732e387fcba4d9ee.jpg" width="700px" style="max-width:100%;"></a><br>𝔥𝔢𝔩𝔩𝔬!<a target="_blank">
+    <img src="https://telegra.ph/file/e758fc65d2522df6c46c3.jpg" width="700px" style="max-width:100%;"></a><br>𝔥𝔢𝔩𝔩𝔬!<a target="_blank">
 
 <p>
   <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝔥𝔢𝔩𝔩𝔬+I'm+Rishmika🇱🇰!;This+is+My+profile!;&font=Fira%20Code&center=true&size=75&width=1000&height=150"><br>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/Rish bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geezingusername" height="50" width="40" /></a>                                                           
+<a href="https://instagram.com/ImRishmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geezingusername" height="50" width="40" /></a>                                                           
 <a href="https://www.youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r e n n gaming" height="50" width="40" /></a>
 
 
