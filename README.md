@@ -93,6 +93,7 @@ Here are some ideas to get you started:
     </a>
 </p>  
   
+  
   <p align="center"><a href="https://github.com/RishbroProMax"><img src="https://github-readme-stats.vercel.app/api?username=RishBroProMax&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/RishbroProMax"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishBroProMax&theme=radical&layout=compact">
 </a></p>    
@@ -100,9 +101,13 @@ Here are some ideas to get you started:
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RishbroProMax&custom_title=Rishmika+sandanu's+Contribution+Graph&theme=xcode" />
 </p>  
   
-  
-    
-  </a>
+ 
+ - ## GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/RishBropromax?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+
+
+</a>
 </p>
 </details>
 <br>
@@ -121,7 +126,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/ImpressiveJampackedKinglet-max-1mb.gif" width="70px" style="max-width:100%;">
 
 <p>
   <h2 align="Rightr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Yo+Yo+See+You+bye;&font=Fira%20Code&center=true&size=75&width=1000&height=150"><br>
