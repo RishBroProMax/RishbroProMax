@@ -71,8 +71,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ImRishmika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gbimsath" height="30" width="40" /></a>
 <a href="https://www.github.com/Rishbropromax/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gbimsath" height="30" width="40" /></a>
 <a href="https://pkrishmikasandanu20104.on.drv.tw/www.Rishmika.Sandanu.com/MY%20website.html" target="blank"><img align="center" src="https://github.com/gbimsath/gbimsath/blob/main/assets/images/web.png" alt="gbimsath" height="40" width="40" /></a> <!--<a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a> --> 
- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Y8Y7DOK1O');kofiwidget2.draw();</script> 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7DOK1O)
 
   #
 <details open="">
@@ -93,6 +92,8 @@ Here are some ideas to get you started:
     </a>
 </p>  
   
+
+
   
   <p align="center"><a href="https://github.com/RishbroProMax"><img src="https://github-readme-stats.vercel.app/api?username=RishBroProMax&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/RishbroProMax"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishBroProMax&theme=radical&layout=compact">
