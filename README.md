@@ -74,8 +74,9 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/Rishbropromax/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gbimsath" height="30" width="40" /></a>
 <a href="https://rishmikasandanuofficial.on.drv.tw/Rishmika/Main.html" target="blank"><img align="center" src="https://github.com/gbimsath/gbimsath/blob/main/assets/images/web.png" alt="gbimsath" height="40" width="40" /></a> <!--<a href="https://www.flaticon.com/free-<br>icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a> --> 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7DOK1O)
-
-  #
+<br>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@imrishmika" data-unique-id="imrishmika"  data-embed-type="creator" style="max-width: 720px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@imrishmika?refer=creator_embed">@imrishmika</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+  
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
