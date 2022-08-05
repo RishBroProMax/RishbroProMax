@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I'm a nub person in programmer**
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/ImRishmika/count.svg" />
 </p>
 
