@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ImRishmika" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 <a href="https://ko-fi.com/ImRishmika">
-        <img height="40px" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" />
+        <img height="40px" src="https://telegra.ph/file/4e179610246e6534d8bc0.png" />
     </a> <br> <br><br>
 
 <strong> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -80,3 +80,5 @@ Here are some ideas to get you started:
 </p>
 </details>
 </details>
+
+<iframe id='kofiframe' src='https://ko-fi.com/imrishmika/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='imrishmika'></iframe>
