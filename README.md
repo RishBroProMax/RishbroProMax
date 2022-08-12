@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> I m Rishmika Sandanu. I m From Sri lanka. I m In grade 7. I love Github.</h1>
+<h1> I m Rishmika Sandanu. I m From Sri lanka. I love Github.</h1>
 
 - 🔭 I’m currently working on TemSemmy & Emo Bot Industry
 - 🌱 I’m currently learning ... HTML , JAVA , CSS , PYTHON
