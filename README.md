@@ -60,16 +60,6 @@ Here are some ideas to get you started:
 <a href="https://ko-fi.com/ImRishmika">
         <img height="40px" src="https://telegra.ph/file/4e179610246e6534d8bc0.png" />
     </a> <br> <br><br>
-
-<strong> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-
-   <p align="center"><a href="https://github.com/RishbroProMax"><img src="https://github-readme-stats.vercel.app/api?username=RishBroProMax&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/RishbroProMax"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishBroProMax&theme=radical&layout=compact">
-</a></p>    
-    
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RishbroProMax&custom_title=Rishmika+sandanu's+Contribution+Graph&theme=xcode" />
-</p>  
-  
  
  - ## GitHub Activity
 
