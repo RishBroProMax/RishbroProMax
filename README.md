@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 <h1> I m Rishmika Sandanu. I m From Sri lanka. I love Github.</h1>
 
-- 🔭 I’m currently working on Team Semmy , Emo Bot Industry & Cat X Girl
+- 🔭 I’m currently working on Emo Bot Devolopers,Cyber Botz SL & Tecca ICT Lab
 - 🌱 I’m currently learning ... HTML , JAVA , CSS , PYTHON
 - 👯 I’m looking to collaborate on ... <b>Web Devoloping</b>
 - 🤔 I’m looking for help with ... ImDenuwan , SZSupunma , Damantha126 , [And More](https://github.com/RishBropromax?tab=following)
