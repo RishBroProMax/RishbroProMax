@@ -12,7 +12,6 @@
 <a href="https://youtube.com/@Rish_Bro/" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/@AboutRishmika" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
 <a href="https://twitter.com/ImRishmika" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
-<a href="https://linkedin.com/in/ImRishmika" class="padded"><img align="left" alt="xditya" width="28px" src="./res/linkedin.png" /></a> 
 </br>
 
 ---
