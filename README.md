@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YcaHNjYFF6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imrishmika) [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ImRishmika) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rish_Bro/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YcaHNjYFF6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imrishmika) [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ImRishmika) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rish_Bro/) [![Website](https://img.shields.io/badge/website-%DCDCDC.svg?logo=Website&logoColor=white)](https://rishbrorpromax.github.io/)
 
 
 # 💻 Tech Stack:
@@ -19,15 +19,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RishBroProMax&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-## 🔗 Connect with me
-<br>
-<!-- png icons from https://iconscout.com/ -->
-<a href="https://rishbropromax.github.io" class="padded"><img align="left" alt="https://rishbropromax.github.io" width="45px" src="./res/website.png" /></a> 
-<a href="https://youtube.com/@Rish_Bro/" class="padded"><img align="left" alt="RishBro" width="45px" src="./res/youtube.png" /></a> 
-<a href="https://telegram.dog/@AboutRishmika" class="padded"><img align="left" alt="RishBro" width="45px" src="./res/telegram.png" /></a> 
-<a href="https://twitter.com/ImRishmika" class="padded"><img align="left" alt="RishBro" width="45px" src="./res/twitter.png" /></a> 
-</br>
 
 ---
 <br>
