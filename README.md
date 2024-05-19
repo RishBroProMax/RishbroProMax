@@ -2,7 +2,7 @@
 # 😊 About Me
 
 -  🚶‍ I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : **InoCodeAcademy**<br>
+-  🔭 I’m currently working on : **Adobe Photoshop**<br>
 -  👯 I’m looking to collaborate : **Github** <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : [Here](https://rishbropromax.github.io/) <br>
