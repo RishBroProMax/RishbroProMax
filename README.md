@@ -31,6 +31,13 @@
 <br/>
 <br>
 
+<p align="center"><br>
+    <a href="https://discord.com/users/982206923220856842">
+      <img src="https://lanyard.cnrad.dev/api/982206923220856842"/>
+       </a>
+    </p>
+<br> <br>
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
