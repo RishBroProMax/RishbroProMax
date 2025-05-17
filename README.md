@@ -1,4 +1,6 @@
 
+![Header](./github-header-image.png)
+
   <h1>😊 About Me</h1>
 
   - 🚶‍ I live in: Sri Lanka 🇱🇰
