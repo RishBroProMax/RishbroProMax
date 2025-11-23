@@ -58,12 +58,5 @@
   <br/>
   <br>
 
-  ## 🚀 My Projects:
-  <!-- Add a section to showcase your projects -->
-  <a href="https://github.com/RishBroProMax/Helakuru-News-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishBroProMax&repo=Helakuru-News-Bot&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/RishBroProMax/Fsub-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishBroProMax&repo=Fsub-Bot&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+
 
