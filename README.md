@@ -15,8 +15,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imrishmika)
   [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@ImRishmika)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Rish_Bro/)
-  [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://rishbrorpromax.github.io/)
-
+  [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://imrishmika.dev)
 
 
   <h3 align="left">Languages and Tools:</h3>
