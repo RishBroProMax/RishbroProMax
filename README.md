@@ -7,8 +7,8 @@
   - 🔭 I’m currently working on: **Nextjs*
   - 👯 I’m looking to collaborate on: Notelk.store
   - 🤔 I’m looking for help with: NoteLK.store
-  - 💬 Ask me about: [Here](https://rishbropromax.github.io/)
-  - 📫 How to reach me: [Click Here](t.me/AboutRishmika)
+  - 💬 Ask me about: [Click Here](https://imrishmika.dev)
+  - 📫 How to reach me: [Click Here](https://imrishmika.dev)
 
   ## 🌐 Socials:
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YcaHNjYFF6) 
