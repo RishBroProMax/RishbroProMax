@@ -4,9 +4,9 @@
   <h1>😊 About Me</h1>
 
   - 🚶‍ I live in: Sri Lanka 🇱🇰
-  - 🔭 I’m currently working on: **Adobe Photoshop**
-  - 👯 I’m looking to collaborate on: **GitHub**
-  - 🤔 I’m looking for help with: **My Projects**
+  - 🔭 I’m currently working on: **Nextjs*
+  - 👯 I’m looking to collaborate on: Notelk.store
+  - 🤔 I’m looking for help with: NoteLK.store
   - 💬 Ask me about: [Here](https://rishbropromax.github.io/)
   - 📫 How to reach me: [Click Here](t.me/AboutRishmika)
 
