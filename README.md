@@ -32,6 +32,6 @@ I am maintaining a strict limit on projects to ensure peak quality during my exa
 | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=vercel" height="25" /> | **[Website](https://imrishmika.dev)** |
 | <img src="https://skillicons.dev/icons?i=instagram" height="25" /> | **[Instagram](https://instagram.com/imrishmika)** |
-| <img src="https://skillicons.dev/icons?i=discord" height="25" /> | **[Discord](https://discord.gg/YcaHNjYFF6)** |
+| <img src="https://skillicons.dev/icons?i=discord" height="25" /> | **[Discord](https://discord.gg/2585Ch9KSc)** |
 
 </div>
