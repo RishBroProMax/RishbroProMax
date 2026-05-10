@@ -1,35 +1,37 @@
+<div align="left">
 
-![Header](./github-header-image.png)
+# Rishmika Sandanu
+### Full-Stack Developer | Creative Designer
 
-  <h1>😊 About Me</h1>
+---
 
-  - 🚶‍ I live in: Sri Lanka 🇱🇰
-  - 🔭 I’m currently working on: **Nextjs*
-  - 👯 I’m looking to collaborate on: Notelk.store
-  - 🤔 I’m looking for help with: NoteLK.store
-  - 💬 Ask me about: [Click Here](https://imrishmika.dev)
-  - 📫 How to reach me: [Click Here](https://imrishmika.dev)
+### 🎯 Current Status
+- **Academic Focus:** G.C.E. O/L Examination (Dec 8) 📚
+- **Development Status:** Active on High-Performance Systems
+- **Post-Exam Plan:** Scaling development capacity and launching new ventures.
 
-  ## 🌐 Socials:
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YcaHNjYFF6) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imrishmika)
-  [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@ImRishmika)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Rish_Bro/)
-  [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://imrishmika.dev)
+---
 
+### 💼 Work Availability
+I am maintaining a strict limit on projects to ensure peak quality during my exam season.
+- **Open Slots:** 🟢 **1** Remaining
+- **Note:** Availability will significantly increase after **December 8**.
 
-  ## 📊 My GitHub Stats:
-  <br/>
-  <a href="https://github.com/RishBroProMax/github-readme-stats/tree/main">
-    <img alt="Rishmika Sandanu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RishBroProMax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/RishBroPromax/github-readme-stats/tree/main">
-    <img alt="Rishmika Sandanu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishBroProMax&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <br/>
+---
 
-  <br/>
-  <br>
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,supabase,tailwind,nodejs,postgres,redis,ps,ai,vercel,gcp,discordjs,cloudflare,heroku,html,js" />
+</p>
 
+---
 
+### 📫 Connect with Me
 
+| Platform | Link |
+| :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=vercel" height="25" /> | **[Website](https://imrishmika.dev)** |
+| <img src="https://skillicons.dev/icons?i=instagram" height="25" /> | **[Instagram](https://instagram.com/imrishmika)** |
+| <img src="https://skillicons.dev/icons?i=discord" height="25" /> | **[Discord](https://discord.gg/YcaHNjYFF6)** |
+
+</div>
