@@ -15,7 +15,7 @@
 ### 💼 Work Availability
 I am maintaining a strict limit on projects to ensure peak quality during my exam season.
 - **Open Slots:** 🟢 **1** Remaining
-- **Note:** Availability will significantly increase after **December 8**.
+- **Note:** Availability will significantly increase after **December 25**.
 
 ---
 
